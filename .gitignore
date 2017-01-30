@@ -1,0 +1,5 @@
+*.pyc
+__pycache__
+myvev
+db.sqlite3
+.DS_Store
